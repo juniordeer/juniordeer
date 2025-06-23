@@ -8,7 +8,7 @@ I'm interested in software development, automation, and modern web technologies.
 - Web: HTML, CSS
   
 ## 🌱 Currently learning
-- TypeScript  
+- Kotlin 
 - Javascript
 
 
