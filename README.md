@@ -4,7 +4,7 @@ I'm interested in software development, automation, and modern web technologies.
 
 ## 🔧 Skills
 - Languages: Python
-- Tools: Git, Windows, VS Code  
+- Tools: Git, VS Code  
 - Web: HTML, CSS
   
 ## 🌱 Currently learning
