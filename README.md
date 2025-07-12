@@ -10,5 +10,5 @@ I'm interested in software development, automation, and modern web technologies.
 ## 🌱 Currently learning
 - Kotlin 
 - Javascript
-
+- Svelte
 
